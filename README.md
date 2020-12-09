@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./dp.jpg" style="border-radius: 50px;" width="70" />  
+  <h1 align='center'>Hi there 👋🏾, I'm Babatunde Koiki</h1> 
   <p align="center"> I am a Software Developer focused on (Python/Flask, Node/Express, React). Available for hire and also a <a href="https://medium.com/@bkoiki950" target="_blank">Technical writer</a>.</p>
 </p>
 
