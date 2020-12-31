@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1yDbvjL7dJIriuZuPas4hgnK28z0d7dgI/view?usp=sharing" style="width: 70%;" />
+  <img src="https://github.com/wolz-CODElife/wolz-CODElife/blob/main/Picture10.jpg" style="width: 70%;" />
   <h1 align='center'>Hi there 👋🏾, I'm Joel Adewole</h1> 
   <p align='center'> <i>aka CODElife</i></p>
   <p align="center">Co-founder <a href="https://github.com/Vidda-Teck" target="_blank">@viddateck</a> . 🐍Python Engineer . 👴Retired PHP dev. 👩‍💻Fullstack web developer . 🤖Arduino. 🌐CISCO-CCNA aware. 🖼️Graphics designer.</p>
