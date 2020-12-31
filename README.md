@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, I'm Joel Adewole</h1> 
-  <p align="center"> I am a Software Developer focused on (Python/Flask, JavaScript). Available for hire and also a <a href="https://medium.com/@bkoiki950" target="_blank">Technical writer</a>.</p>
+  <p align="center">Co-founder <a href="https://github.com/Vidda-Teck" target="_blank">@viddateck</a> . 🐍Python Engineer . 👴Retired PHP dev. 👩‍💻Fullstack web developer . 🤖Arduino. 🌐CISCO-CCNA aware. 🖼️Graphics designer.</p>
 </p>
 
 <p align='center'>
