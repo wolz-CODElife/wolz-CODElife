@@ -26,7 +26,7 @@
 </p>
 </p>
 <p align="center">
-  <img width="48%" src="https://i.postimg.cc/D0WLqR3P/astro.png" alt="wolz CODElife" />
-  <img width="48%" src="https://i.postimg.cc/pdhmcz6P/Picture10.jpg" alt="wolz CODElife" />
+  <img height="200px" src="https://i.postimg.cc/D0WLqR3P/astro.png" alt="wolz CODElife" />
+  <img height="200px" src="https://i.postimg.cc/pdhmcz6P/Picture10.jpg" alt="wolz CODElife" />
 </p>
  
