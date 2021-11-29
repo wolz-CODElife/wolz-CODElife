@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/wolz-CODElife/wolz-CODElife/blob/main/Picture10.jpg" style="width: 200px;" />
+  <img src="https://github.com/wolz-CODElife/wolz-CODElife/blob/main/Picture10.jpg" width="80%" />
   <h1 align='center'>Hi there 👋🏾, I'm Joel Adewole</h1> 
-  <p align='center'> <i>aka CODElife</i></p>
+  <p align='center'> <i>aka wolz.CODElife</i></p>
   <p align="center">Co-founder <a href="https://github.com/Vidda-Teck" target="_blank">@viddateck</a> . 🐍Python Engineer . 👴Retired PHP dev. 👩‍💻Fullstack web developer . 🤖Arduino. 🌐CISCO-CCNA aware. 🖼️Graphics designer.</p>
 </p>
 
@@ -24,5 +24,9 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=wolz-codelife&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wolz-codelife&theme=tokyonight">
 </p>
+</p>
+<p align="center">
+  <img width="48%" src="https://i.postimg.cc/D0WLqR3P/astro.png" alt="wolz CODElife" />
+  <img width="48%" src="https://i.postimg.cc/pdhmcz6P/Picture10.jpg" alt="wolz CODElife" />
 </p>
  
