@@ -19,10 +19,12 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 <img src="https://gpvc.arturio.dev/wolz-codelife" />
-&nbsp;&nbsp;
+
+<div style="display: flex; justify-content: center;">
   <a href="https://dev.to/wolzcodelife" target="_blank">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" width="40px" height="40px" />
   </a>
+</div>
   
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=wolz-codelife&show_icons=true&theme=tokyonight&line_height=27">
