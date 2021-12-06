@@ -20,9 +20,9 @@
 </a>&nbsp;&nbsp;
 <img src="https://gpvc.arturio.dev/wolz-codelife" />
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; width: 100%;">
   <a href="https://dev.to/wolzcodelife" target="_blank">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" width="40px" height="40px" />
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" width="80px" height="80px" />
   </a>
 </div>
   
