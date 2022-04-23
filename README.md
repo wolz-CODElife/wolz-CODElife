@@ -6,7 +6,7 @@
 </p>
 
 <p align='center'>
-<a href="https://wa.me/2347059575819?text=Hello CODElife" target="_blank">
+<a href="https://wa.me/2349121341600?text=Hello CODElife" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/AdewolzJ" target="_blank">
