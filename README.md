@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/wolz-CODElife/wolz-CODElife/blob/main/Picture10.jpg" width="80%" />
+  <img src="https://github.com/wolz-CODElife/wolz-CODElife/blob/main/wolzcodelife.jpg" width="100%" />
   <h1 align='center'>Hi there 👋🏾, I'm Joel Adewole</h1> 
   <p align='center'> <i>aka wolz.CODElife</i></p>
   <p align="center">Developer Avocados 🥑 | Technical Writer ✍️ | Software Engineer 👩‍💻 | Web3 🌐 | React 🌐 | Python 🐍</p>
