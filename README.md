@@ -26,12 +26,6 @@
   </a>
 </div>
 
-<div style="justify-content: center; display: flex; align-items: center; width: 100%;">
-  <a href="https://holopin.io/@wolzcodelife01" target="_blank">
-  <img src="https://holopin.io/api/user/board?user=wolzcodelife01" width="100%" />
-  </a>
-</div>
-  
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=wolz-codelife&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wolz-codelife&theme=tokyonight">
