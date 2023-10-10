@@ -9,7 +9,7 @@
 <a href="https://wa.me/2349121341600?text=Hello CODElife" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/AdewolzJ" target="_blank">
+<a href="https://twitter.com/wolz_codelife" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/wolz-codelife" target="_blank">
@@ -17,8 +17,7 @@
 </a>&nbsp;&nbsp;
 <a href="mailto:joeladewole3@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
-<img src="https://gpvc.arturio.dev/wolz-codelife" />
+</a>
 
 <div style="justify-content: center; display: flex; align-items: center; width: 100%;" align='center'>
   <a href="https://dev.to/wolzcodelife" target="_blank">
