@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/wolz-CODElife/wolz-CODElife/blob/main/wolzcodelife.jpg" width="100%" />
-  <h1 align='center'>Hi there 👋🏾, I'm Joel Adewole</h1> 
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋🏾,;+I'm+Joel+Adewole;" />
+</h1>
+<!--   <h1 align='center'>Hi there 👋🏾, I'm Joel Adewole</h1>  -->
   <p align='center'> <i>aka wolz.CODElife</i></p>
   <p align="center">Developer Avocados 🥑 | Technical Writer ✍️ | Software Engineer 👩‍💻 | Web3 🌐 | React 🌐 | Python 🐍</p>
 </p>
@@ -28,5 +31,9 @@
   <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=wolz-codelife&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wolz-codelife&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wolz-codelife&theme=github_dark" alt="wolz CODElife's GitHub Stats"/>
 </p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 </p>
