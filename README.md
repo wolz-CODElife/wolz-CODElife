@@ -1,36 +1,27 @@
 <p align="center">
   <img src="https://github.com/wolz-CODElife/wolz-CODElife/blob/main/wolzcodelife.jpg" width="100%" />
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋🏾,;+I'm+Joel+Adewole;" />
-</h1>
 <!--   <h1 align='center'>Hi there 👋🏾, I'm Joel Adewole</h1>  -->
-  <p align='center'> <i>aka wolz.CODElife</i></p>
-  <p align="center">Developer Avocados 🥑 | Technical Writer ✍️ | Software Engineer 👩‍💻 | Web3 🌐 | React 🌐 | Python 🐍</p>
+  <p>Hi, I'm Joel Adewole, a Developer Relations Engineer with a background in software engineering and technical writing. I build example applications, write production-ready documentation, and create developer education that helps teams adopt complex platforms through real, runnable code. </p>
+    <p>My work spans APIs, SDKs, Web3 systems, and developer onboarding, with experience across early-stage startups and global developer platforms.</p>
 </p>
 
-<p align='center'>
-<a href="https://wa.me/2349121341600?text=Hello CODElife" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/wolz_codelife" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/wolz-codelife" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:joeladewole3@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+### What I Work On
+- Example applications and demos for developer platforms
+- API and SDK documentation
+- Tutorials, how-to guides, and onboarding flows
+- Developer education (learning paths, interactive courses, certification prep)
+- Open-source documentation and tooling
 
-<div style="justify-content: center; display: flex; align-items: center; width: 100%;" align='center'>
-  <a href="https://dev.to/wolzcodelife" target="_blank">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4f5VWKQw--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" width="80px" height="80px" />
-  </a>
-</div>
+### Highlight Projects
+- [**GitHub Learn / GitHub Skills**](https://learn.github.com/) – Contributed to the design and development of interactive, hands-on learning courses that teach GitHub workflows through real examples.
+- [**ERC-4626 Developer Documentation**](https://ethereum.org/developers/docs/standards/tokens/erc-4626/) – Authored and maintained a production-grade walkthrough for implementing tokenized vaults, referenced by the Ethereum ecosystem.
+- [**Polygon Onboarding & SDKs**](https://docs.polygon.technology/pos/get-started/building-on-polygon/) – Built and consolidated documentation to reduce onboarding and integration friction for Polygon PoS.
+- [BOUNTY](https://github.com/logos-messaging/bounties/issues/14) Build dApp of Your Choice Using Waku (Decentralized Communication) and Vue.js
+
+### Open to Collaboration
+I’m interested in collaborating on developer tooling, documentation, and education projects, especially around APIs, platform onboarding, and open-source ecosystems.
 
   <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wolz-codelife&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wolz-codelife&theme=tokyonight">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wolz-codelife&theme=github_dark" alt="wolz CODElife's GitHub Stats"/>
 </p>
 <h3 align="center">
